@@ -1,0 +1,9 @@
+/* Default Template */
+#content {
+    width: 60%;
+    margin: 150px auto 200px auto;
+}
+
+a {
+    text-decoration:none;
+}
